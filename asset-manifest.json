@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/world-Tv-Live/static/css/main.a869f44e.css",
-    "main.js": "/world-Tv-Live/static/js/main.c3859f3b.js",
+    "main.js": "/world-Tv-Live/static/js/main.795c4757.js",
     "static/js/787.785e1965.chunk.js": "/world-Tv-Live/static/js/787.785e1965.chunk.js",
     "static/media/world-tv-live2.png": "/world-Tv-Live/static/media/world-tv-live2.00f7f78cdb26dd3045bc.png",
     "index.html": "/world-Tv-Live/index.html",
     "main.a869f44e.css.map": "/world-Tv-Live/static/css/main.a869f44e.css.map",
-    "main.c3859f3b.js.map": "/world-Tv-Live/static/js/main.c3859f3b.js.map",
+    "main.795c4757.js.map": "/world-Tv-Live/static/js/main.795c4757.js.map",
     "787.785e1965.chunk.js.map": "/world-Tv-Live/static/js/787.785e1965.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a869f44e.css",
-    "static/js/main.c3859f3b.js"
+    "static/js/main.795c4757.js"
   ]
 }
